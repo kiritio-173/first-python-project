@@ -11,4 +11,3 @@ for a in range(100,1000):
     if b**3+c**3+d**3==a:
         print(str(a)+'为水仙花数')
 
-    #pass

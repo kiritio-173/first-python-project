@@ -7,4 +7,5 @@ if s%2==0 :
 elif s%2==1 :
     print(int(s),"为奇数")
 else :
+
     print(s,"不为整数")

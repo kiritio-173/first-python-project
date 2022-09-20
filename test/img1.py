@@ -12,4 +12,5 @@ lena.shape  # (512, 512, 3)
 
 plt.imshow(lena)  # 显示图片
 plt.axis('off')  # 不显示坐标轴
+
 plt.show()
